@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-I am a tech-driven entrepreneur and software engineer, currently serving as the **Chief Technology Officer (CTO) & COO at CodexA Infotech LLP**, and pursuing a **B.Tech in Computer Science Engineering** at ITM Skills University. 
+I am a tech-driven entrepreneur and software engineer, currently serving as the **Chief Technology Officer (CTO) & COO at CodexA Infotech LLP**, and pursuing a **B.Tech in Computer Science Engineering** at ITM Skills University.
 
 I specialize in bridging the gap between business growth and cutting-edge scalable technology. My work spans across architecting web and mobile platforms, designing automated AI agents, integrating intelligent workflows, and prototyping custom IoT hardware ecosystems.
 
@@ -31,6 +31,21 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
 - 💡 **Core Focus**: Developing robust full-stack architectures (React/Next.js/Node.js) and custom GenAI pipelines.
 - 🎯 **Career Goal**: Building high-impact, AI-native SaaS and IoT automation frameworks for modern enterprises.
 - 📍 **Location**: Mumbai Metropolitan Region, Maharashtra, India
+
+---
+
+### ⚡ Quick Facts
+
+<details open>
+  <summary><b>🔍 Get to know me in 30 seconds</b></summary>
+  <br/>
+  <ul>
+    <li>🔭 I’m currently leading product architecture and engineering teams at <b>CodexA Infotech LLP</b>.</li>
+    <li>🎓 I am simultaneously earning my B.Tech degree in Computer Science Engineering.</li>
+    <li>⚡ <b>Fun fact</b>: I enjoy building both software logic (AI) and physical electronic circuits (IoT).</li>
+    <li>💬 <b>Ask me about</b>: Full-stack development, LLM integrations, or technology leadership.</li>
+  </ul>
+</details>
 
 ---
 
@@ -59,7 +74,34 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
 
 <br/>
 
-<details open>
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%">
+        <b>Frontend Development</b><br/>
+        <img src="https://progress-bar.dev/90/?color=3b82f6&width=350&show_percent=true" alt="Frontend Development" />
+      </td>
+      <td width="50%">
+        <b>Backend & API Engineering</b><br/>
+        <img src="https://progress-bar.dev/85/?color=3b82f6&width=350&show_percent=true" alt="Backend & API Engineering" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <b>AI & Automation Systems</b><br/>
+        <img src="https://progress-bar.dev/80/?color=3b82f6&width=350&show_percent=true" alt="AI & Automation Systems" />
+      </td>
+      <td width="50%">
+        <b>IoT & Hardware Prototyping</b><br/>
+        <img src="https://progress-bar.dev/75/?color=3b82f6&width=350&show_percent=true" alt="IoT & Hardware Prototyping" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<details>
 <summary><b>Visual Tech Stack Badges</b></summary>
 <br/>
 
@@ -85,6 +127,49 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
 
 ---
 
+### 📁 Featured Project Domains
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Automation Systems</h3>
+      <p>Custom LLM orchestration, intelligent business agents, and workflow automations built for business growth.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Next-Gen Web Applications</h3>
+      <p>Scalable web architectures and full-stack SaaS solutions leveraging high-performance frameworks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 Custom IoT Smart Hardware</h3>
+      <p>Integrating microcontrollers, edge sensors, and custom software systems for real-world IoT use cases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Hardware-ESP32-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/IoT-Edge-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 CodexA Infotech Suite</h3>
+      <p>Developing robust, secure, and client-centric business management and automation platforms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🏆 Certifications & Hackathons
 
 - 🏅 **LetsUpgrade**: Web & Full-Stack Development
@@ -107,11 +192,28 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
       </td>
     </tr>
   </table>
-  <br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 3D Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarang-24&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Sarang Gole's GitHub Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarang-24&theme=radical&hide_border=true" width="760" alt="Sarang Gole's GitHub Streak" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Dynamic Tech Quotes" />
+</div>
+
+<br/>
 
 <div align="center">
   <i>"Transforming ideas into scalable code & intelligent solutions."</i><br>
