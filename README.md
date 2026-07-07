@@ -14,6 +14,8 @@
 <div align="center">
   <a href="https://linkedin.com/in/sarang-gole-43042831b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:saranggole9106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hashnode.com/@sarang-24" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://medium.com/@saranggole9106" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
 
 <div align="center">
@@ -166,33 +168,6 @@
 
 <br/>
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%">
-        <b>Frontend Development</b><br/>
-        <code>██████████████████░░</code> (90%)
-      </td>
-      <td width="50%">
-        <b>Backend & API Engineering</b><br/>
-        <code>█████████████████░░░</code> (85%)
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <b>AI & Automation Systems</b><br/>
-        <code>████████████████░░░░</code> (80%)
-      </td>
-      <td width="50%">
-        <b>IoT & Hardware Prototyping</b><br/>
-        <code>███████████████░░░░░</code> (75%)
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <details open>
 <summary><b>Visual Tech Stack Badges</b></summary>
 <br/>
@@ -260,6 +235,14 @@
   </tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <h3>📁 Featured Repositories</h3>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=sarang-24&repo=AWS_supplychain&theme=radical" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=sarang-24&repo=Devops_150&theme=radical" />
+</div>
+
 ---
 
 ### 🏆 Certifications & Hackathons
@@ -268,6 +251,16 @@
 - 🏅 **LinkedIn Learning**: Professional Strategic Leadership & IT Operations
 - 🏅 **GenAI 101 with Pieces**: AI-Powered Developer Workflows
 - 👥 **Felicity '25 Hackathon**: Active builder & participant in rapid prototyping
+
+---
+
+### ✍️ Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+* 📄 [Building AI-Powered Automation Pipelines](https://medium.com) *(Placeholder)*
+* 📄 [Optimizing Full-Stack Architectures with Next.js](https://medium.com) *(Placeholder)*
+* 📄 [Getting Started with ESP32 and IoT Edge Computing](https://medium.com) *(Placeholder)*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -297,6 +290,20 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarang-24&theme=radical&hide_border=true" width="760" alt="Sarang Gole's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Weekly Coding Activity (WakaTime)</h3>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/wakatime?username=sarang-24&theme=radical&layout=compact" width="400" alt="WakaTime Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🎵 Now Playing on Spotify</h3>
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=3b82f6&bar_color=3b82f6&text_color=ffffff" alt="Spotify Now Playing" />
 </div>
 
 ---
