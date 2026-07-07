@@ -48,6 +48,40 @@
   </table>
 </blockquote>
 
+<blockquote>
+  <h3>🎮 CTO RPG Character Card</h3>
+  <table width="100%" border="0">
+    <tr>
+      <td width="33%"><b>Class:</b> AI Architect</td>
+      <td width="33%"><b>Guild:</b> CodexA Infotech</td>
+      <td width="34%"><b>Level:</b> 22 (B.Tech CSE)</td>
+    </tr>
+  </table>
+  <hr>
+  <table width="100%" border="0">
+    <tr>
+      <td width="40%"><b>STR (System Architecture)</b></td>
+      <td><code>██████████████████░░</code> [90/100]</td>
+    </tr>
+    <tr>
+      <td><b>INT (AI & Agent Spellcasting)</b></td>
+      <td><code>███████████████████░</code> [95/100]</td>
+    </tr>
+    <tr>
+      <td><b>DEX (Full-Stack Engineering)</b></td>
+      <td><code>██████████████████░░</code> [90/100]</td>
+    </tr>
+    <tr>
+      <td><b>CHA (Leadership & COO)</b></td>
+      <td><code>███████████████████░</code> [95/100]</td>
+    </tr>
+    <tr>
+      <td><b>LUK (IoT Prototyping)</b></td>
+      <td><code>████████████████░░░░</code> [80/100]</td>
+    </tr>
+  </table>
+</blockquote>
+
 ---
 
 ### 🚀 About Me
@@ -134,6 +168,28 @@
     </tr>
   </table>
 </div>
+
+---
+
+### 🖥️ Interactive Shell Console
+
+```bash
+sarang@codexa:~$ ssh guest@saranggole.dev
+Welcome to Sarang's Executive Console! (B.Tech CSE & CTO)
+
+sarang@codexa:~$ cat status.json
+{
+  "focus": "deploying agentic AI pipelines",
+  "timezone": "IST (UTC+5:30)",
+  "workspace": "CodexA Infotech LLP",
+  "coffee_dependency": "high-priority"
+}
+
+sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
+[INFO] Establishing wireless handshakes...
+[INFO] Ingesting RAG models for local classification...
+[SUCCESS] IoT Automation Edge Node active!
+```
 
 ---
 
