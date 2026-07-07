@@ -21,6 +21,24 @@
 
 ---
 
+### 💻 Developer & CTO Configuration
+
+```json
+{
+  "name": "Sarang Gole",
+  "role": "Chief Technology Officer & COO at CodexA Infotech LLP",
+  "philosophy": "Automate everything, scale selectively, build modular systems",
+  "academic_status": "B.Tech Computer Science Engineering @ ITM Skills University",
+  "core_competencies": {
+    "ai_automation": ["Multi-Agent Orchestration", "LLM Fine-tuning/RAG", "Vector Search Indices", "Autonomous Workflows"],
+    "system_architecture": ["Microservices", "Event-Driven Pipelines", "RESTful/GraphQL API Gateways", "Edge IoT"],
+    "management": ["Agile Sprint Planning", "Product Lifecycle Management", "Developer Mentoring", "CI/CD DevOps"]
+  }
+}
+```
+
+---
+
 ### 🚀 About Me
 
 I am a tech-driven entrepreneur and software engineer, currently serving as the **Chief Technology Officer (CTO) & COO at CodexA Infotech LLP**, and pursuing a **B.Tech in Computer Science Engineering** at ITM Skills University.
@@ -31,6 +49,38 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
 - 💡 **Core Focus**: Developing robust full-stack architectures (React/Next.js/Node.js) and custom GenAI pipelines.
 - 🎯 **Career Goal**: Building high-impact, AI-native SaaS and IoT automation frameworks for modern enterprises.
 - 📍 **Location**: Mumbai Metropolitan Region, Maharashtra, India
+
+---
+
+### 🧠 CTO System Design: AI Agent & IoT Pipeline
+
+Here is a look at a typical production architecture I design for automated, multi-agent AI ecosystems:
+
+```mermaid
+flowchart TD
+    %% Styling
+    classDef default fill:#111,stroke:#3B82F6,stroke-width:1px,color:#fff;
+    classDef highlight fill:#1E293B,stroke:#8B5CF6,stroke-width:2px,color:#fff;
+    
+    %% Elements
+    User[Client App: Next.js/React] -->|GraphQL/REST| API[API Gateway: Node.js/Express]:::highlight
+    API -->|Routing| AgentRouter{AI Agent Router}
+    
+    subgraph AI Orchestration Layer
+        AgentRouter -->|User Context| LLM[Gemini Pro / GPT-4 API]
+        LLM -->|Semantics| VectorDB[(Pinecone / pgvector)]
+        VectorDB -->|RAG Ingestion| LLM
+    end
+    
+    subgraph Execution & IoT Edge
+        LLM -->|JSON Action| Queue[Task Queue / Workers]:::highlight
+        LLM -->|Direct Signals| IoTEdge[ESP32 / Arduino Controller]
+        IoTEdge -->|Hardware Action| EdgeSensors[Physical Motors/Sensors]
+    end
+    
+    Queue -->|State Synced| User
+    IoTEdge -->|Telemetry Feed| API
+```
 
 ---
 
