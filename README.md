@@ -302,8 +302,10 @@
 ---
 
 <div align="center">
-  <h3>🎵 Now Playing on Spotify</h3>
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=3b82f6&bar_color=3b82f6&text_color=ffffff" alt="Spotify Now Playing" />
+  <h3>🎵 Connect on Spotify</h3>
+  <a href="https://open.spotify.com/user/sarang-24" target="blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20On-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  </a>
 </div>
 
 ---
