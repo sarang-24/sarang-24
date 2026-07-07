@@ -117,20 +117,16 @@
     <tr>
       <td width="50%" valign="top">
         <h4>🔍 Quick Info</h4>
-        <ul>
-          <li>🔭 Leading engineering teams at <b>CodexA Infotech LLP</b>.</li>
-          <li>🎓 Earning my B.Tech degree in Computer Science.</li>
-          <li>⚡ <b>Core Philosophy</b>: Combine software logic (AI) with physical systems (IoT).</li>
-          <li>💬 <b>Expertise</b>: Web architectures, LLM integrations, and dev management.</li>
-        </ul>
+        🔭 Leading engineering teams at <b>CodexA Infotech LLP</b>.<br/>
+        🎓 Earning my B.Tech degree in Computer Science.<br/>
+        ⚡ <b>Core Philosophy</b>: Combine software logic (AI) with physical systems (IoT).<br/>
+        💬 <b>Expertise</b>: Web architectures, LLM integrations, and dev management.
       </td>
       <td width="50%" valign="top">
         <h4>📅 Daily Schedule</h4>
-        <ul>
-          <li>🌅 <b>Morning</b>: Standups, architecture design & client relations.</li>
-          <li>☀️ <b>Afternoon</b>: Full-stack web app building & AI pipeline coding.</li>
-          <li>🌙 <b>Evening</b>: Academic studies, IoT prototyping & tech R&D.</li>
-        </ul>
+        🌅 <b>Morning</b>: Standups, architecture design & client relations.<br/>
+        ☀️ <b>Afternoon</b>: Full-stack web app building & AI pipeline coding.<br/>
+        🌙 <b>Evening</b>: Academic studies, IoT prototyping & tech R&D.
       </td>
     </tr>
   </table>
