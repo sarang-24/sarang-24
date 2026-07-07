@@ -21,36 +21,29 @@
 
 ---
 
-### 💻 Developer & CTO Configuration
+### 🖥️ Executive CTO Dashboard
 
-```json
-{
-  "name": "Sarang Gole",
-  "role": "CTO & COO @ CodexA Infotech LLP",
-  "philosophy": "Automate everything, scale selectively",
-  "academic": "B.Tech CSE @ ITM Skills University",
-  "core_competencies": {
-    "ai_automation": [
-      "Multi-Agent Orchestration",
-      "LLM Fine-Tuning & RAG",
-      "Vector Search Indices",
-      "Autonomous Agents"
-    ],
-    "system_architecture": [
-      "Microservice & API Gateways",
-      "Event-Driven Pipelines",
-      "Custom IoT Integration",
-      "Edge Computing"
-    ],
-    "management": [
-      "Agile Sprint Planning",
-      "Product Strategy & Roadmap",
-      "Developer Mentoring",
-      "DevOps CI/CD Pipelines"
-    ]
-  }
-}
-```
+<blockquote>
+  <table width="100%" border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <b>👤 Profile</b><br/>
+        Sarang Gole<br/>
+        CTO & COO @ CodexA Infotech LLP
+      </td>
+      <td width="50%" valign="top">
+        <b>🎓 Academic</b><br/>
+        B.Tech CSE<br/>
+        ITM Skills University
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"><br/>
+        <b>🎯 Philosophy</b>: <i>"Automate everything, scale selectively, build with purpose."</i>
+      </td>
+    </tr>
+  </table>
+</blockquote>
 
 ---
 
