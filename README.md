@@ -26,13 +26,28 @@
 ```json
 {
   "name": "Sarang Gole",
-  "role": "Chief Technology Officer & COO at CodexA Infotech LLP",
-  "philosophy": "Automate everything, scale selectively, build modular systems",
-  "academic_status": "B.Tech Computer Science Engineering @ ITM Skills University",
+  "role": "CTO & COO @ CodexA Infotech LLP",
+  "philosophy": "Automate everything, scale selectively",
+  "academic": "B.Tech CSE @ ITM Skills University",
   "core_competencies": {
-    "ai_automation": ["Multi-Agent Orchestration", "LLM Fine-tuning/RAG", "Vector Search Indices", "Autonomous Workflows"],
-    "system_architecture": ["Microservices", "Event-Driven Pipelines", "RESTful/GraphQL API Gateways", "Edge IoT"],
-    "management": ["Agile Sprint Planning", "Product Lifecycle Management", "Developer Mentoring", "CI/CD DevOps"]
+    "ai_automation": [
+      "Multi-Agent Orchestration",
+      "LLM Fine-Tuning & RAG",
+      "Vector Search Indices",
+      "Autonomous Agents"
+    ],
+    "system_architecture": [
+      "Microservice & API Gateways",
+      "Event-Driven Pipelines",
+      "Custom IoT Integration",
+      "Edge Computing"
+    ],
+    "management": [
+      "Agile Sprint Planning",
+      "Product Strategy & Roadmap",
+      "Developer Mentoring",
+      "DevOps CI/CD Pipelines"
+    ]
   }
 }
 ```
