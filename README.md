@@ -82,43 +82,54 @@
 
 ---
 
-### 📅 Vertical Milestones
+### 📅 Career Roadmap & Milestones
 
-```
- 2024 ──🎓 Entered ITM Group of Institutions (B.Tech Computer Science Engineering)
-        └── Started building foundations in Full-stack web development & IoT
- 
- 2025 ──👥 Felicity '25 Hackathon
-        ├── Engineered rapid-prototype software solutions
-        └── Explored advanced AI/ML systems and workflow automation
- 
- 2026 ──🚀 Appointed Chief Technology Officer & COO at CodexA Infotech LLP
-        ├── Leading tech direction & scaling software development workflows
-        └── Managing client delivery and AI product strategy
-```
+<table width="100%" border="0">
+  <tr>
+    <td width="15%" valign="top"><b>🎓 2024</b></td>
+    <td>
+      <b>Entered ITM Group of Institutions</b><br/>
+      Pursuing B.Tech in Computer Science Engineering. Started building foundations in full-stack web development and edge IoT hardware.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>👥 2025</b></td>
+    <td>
+      <b>Felicity '25 Hackathon Builder</b><br/>
+      Engineered rapid-prototype software solutions, focusing on multi-agent workflow automations and advanced AI/ML systems.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🚀 2026</b></td>
+    <td>
+      <b>CTO & COO @ CodexA Infotech LLP</b><br/>
+      Appointed as Chief Technology Officer & COO. Directing technical strategy, system architectures, engineering teams, and AI integration roadmaps.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚡ Quick Facts & Daily Routine
 
 <div align="left">
-  <table width="100%">
+  <table width="100%" border="0">
     <tr>
       <td width="50%" valign="top">
         <h4>🔍 Quick Info</h4>
         <ul>
           <li>🔭 Leading engineering teams at <b>CodexA Infotech LLP</b>.</li>
-          <li>🎓 Simultaneously earning my B.Tech degree in CSE.</li>
-          <li>⚡ <b>Fun fact</b>: I enjoy building both software logic (AI) and physical electronic circuits (IoT).</li>
-          <li>💬 <b>Ask me about</b>: Web architecture, LLM integrations, or tech management.</li>
+          <li>🎓 Earning my B.Tech degree in Computer Science.</li>
+          <li>⚡ <b>Core Philosophy</b>: Combine software logic (AI) with physical systems (IoT).</li>
+          <li>💬 <b>Expertise</b>: Web architectures, LLM integrations, and dev management.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <h4>📅 Daily Schedule</h4>
         <ul>
-          <li>🌅 <b>Morning</b>: Dev Standups, Tech Architecture & Client Relations.</li>
-          <li>☀️ <b>Afternoon</b>: Web App Architecture & AI Pipeline Code.</li>
-          <li>🌙 <b>Evening</b>: Academic Studies, IoT prototyping & Tech R&D.</li>
+          <li>🌅 <b>Morning</b>: Standups, architecture design & client relations.</li>
+          <li>☀️ <b>Afternoon</b>: Full-stack web app building & AI pipeline coding.</li>
+          <li>🌙 <b>Evening</b>: Academic studies, IoT prototyping & tech R&D.</li>
         </ul>
       </td>
     </tr>
