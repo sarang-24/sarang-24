@@ -276,10 +276,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sarang-24&show_icons=true&theme=radical&hide_border=true" width="400" alt="Sarang Gole's GitHub Stats" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=sarang-24&show_icons=true&theme=radical&hide_border=true" width="400" alt="Sarang Gole's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarang-24&layout=compact&theme=radical&hide_border=true" width="350" alt="Sarang Gole's Top Languages" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=sarang-24&layout=compact&theme=radical&hide_border=true" width="350" alt="Sarang Gole's Top Languages" />
       </td>
     </tr>
   </table>
