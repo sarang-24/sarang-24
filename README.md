@@ -136,16 +136,32 @@
 
 ### 🛠️ Tech Stack & Professional Competencies
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  FRONTEND   : React.js │ Next.js │ TypeScript │ TailwindCSS │ HTML5/CSS3 │
-│  BACKEND    : Node.js │ Express.js │ Python │ RESTful APIs │ GraphQL     │
-│  DATABASES  : MongoDB │ PostgreSQL │ MySQL │ Firebase (Firestore)      │
-│  AI / ML    : Generative AI │ LLM Orchestration │ Gemini/OpenAI APIs   │
-│  IOT / SYS  : Microcontrollers │ Hardware Prototyping │ Edge Computing  │
-│  DEVOPS     : Git/GitHub │ Docker │ Vercel │ Netlify │ Linux Systems   │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<table width="100%" border="0">
+  <tr>
+    <td width="20%" valign="top"><b>💻 Frontend</b></td>
+    <td>React.js • Next.js • TypeScript • Tailwind CSS • HTML5 • CSS3</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>⚙️ Backend</b></td>
+    <td>Node.js • Express.js • Python • RESTful APIs • GraphQL</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>💾 Databases</b></td>
+    <td>MongoDB • PostgreSQL • MySQL • Firebase (Firestore)</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🤖 AI & Automation</b></td>
+    <td>Generative AI • LLM Orchestration • Gemini & OpenAI APIs • CrewAI</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🔌 IoT & Systems</b></td>
+    <td>Microcontrollers (ESP32/Arduino) • Hardware Prototyping • Edge Computing</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🛠️ DevOps & Tools</b></td>
+    <td>Git • GitHub • Docker • Vercel • Netlify • Linux Systems</td>
+  </tr>
+</table>
 
 <br/>
 
