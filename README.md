@@ -49,14 +49,28 @@
 
 ### 🚀 About Me
 
-I am a tech-driven entrepreneur and software engineer, currently serving as the **Chief Technology Officer (CTO) & COO at CodexA Infotech LLP**, and pursuing a **B.Tech in Computer Science Engineering** at ITM Skills University.
+<p align="justify">
+  As a tech-driven entrepreneur and software engineer, I bridge the gap between business growth and cutting-edge scalable technology. In my dual role as <b>Chief Technology Officer & COO at CodexA Infotech LLP</b>, I direct product strategy, orchestrate software architectures, and lead cross-functional teams to build next-generation applications. Simultaneously, I am expanding my theoretical and technical foundations through a <b>B.Tech in Computer Science Engineering</b> at ITM Skills University.
+</p>
 
-I specialize in bridging the gap between business growth and cutting-edge scalable technology. My work spans across architecting web and mobile platforms, designing automated AI agents, integrating intelligent workflows, and prototyping custom IoT hardware ecosystems.
-
-- 💼 **Current Leadership**: Driving technical strategy, scaling engineering processes, and delivering product roadmaps at CodexA Infotech LLP.
-- 💡 **Core Focus**: Developing robust full-stack architectures (React/Next.js/Node.js) and custom GenAI pipelines.
-- 🎯 **Career Goal**: Building high-impact, AI-native SaaS and IoT automation frameworks for modern enterprises.
-- 📍 **Location**: Mumbai Metropolitan Region, Maharashtra, India
+<table width="100%" border="0">
+  <tr>
+    <td width="20%">💼 <b>Leadership</b></td>
+    <td>Driving technical strategy, streamlining engineering operations, and delivering scalable product roadmaps at CodexA Infotech.</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Core Focus</b></td>
+    <td>Architecting robust full-stack systems (Next.js/Node.js) integrated with autonomous Generative AI & LLM pipelines.</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Mission</b></td>
+    <td>Engineering high-performance, AI-native SaaS ecosystems and intelligent IoT automation frameworks.</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Mumbai Metropolitan Region, Maharashtra, India</td>
+  </tr>
+</table>
 
 ---
 
