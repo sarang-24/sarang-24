@@ -52,35 +52,11 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
 
 ---
 
-### 🧠 CTO System Design: AI Agent & IoT Pipeline
+### 🐍 Animated Contribution Grid
 
-Here is a look at a typical production architecture I design for automated, multi-agent AI ecosystems:
-
-```mermaid
-flowchart TD
-    %% Styling
-    classDef default fill:#111,stroke:#3B82F6,stroke-width:1px,color:#fff;
-    classDef highlight fill:#1E293B,stroke:#8B5CF6,stroke-width:2px,color:#fff;
-    
-    %% Elements
-    User[Client App: Next.js/React] -->|GraphQL/REST| API[API Gateway: Node.js/Express]:::highlight
-    API -->|Routing| AgentRouter{AI Agent Router}
-    
-    subgraph AI Orchestration Layer
-        AgentRouter -->|User Context| LLM[Gemini Pro / GPT-4 API]
-        LLM -->|Semantics| VectorDB[(Pinecone / pgvector)]
-        VectorDB -->|RAG Ingestion| LLM
-    end
-    
-    subgraph Execution & IoT Edge
-        LLM -->|JSON Action| Queue[Task Queue / Workers]:::highlight
-        LLM -->|Direct Signals| IoTEdge[ESP32 / Arduino Controller]
-        IoTEdge -->|Hardware Action| EdgeSensors[Physical Motors/Sensors]
-    end
-    
-    Queue -->|State Synced| User
-    IoTEdge -->|Telemetry Feed| API
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sarang-24/sarang-24/output/github-contribution-grid-snake-dark.svg" alt="Sarang Gole's Contribution Grid Snake" width="100%" />
+</div>
 
 ---
 
