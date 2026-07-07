@@ -105,16 +105,6 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
 
 ---
 
-### 🏆 Repository Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarang-24&theme=radical&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Professional Competencies
 
 ```
@@ -135,21 +125,21 @@ I specialize in bridging the gap between business growth and cutting-edge scalab
     <tr>
       <td width="50%">
         <b>Frontend Development</b><br/>
-        <img src="https://progress-bar.dev/90/?color=3b82f6&width=350&show_percent=true" alt="Frontend Development" />
+        <code>██████████████████░░</code> (90%)
       </td>
       <td width="50%">
         <b>Backend & API Engineering</b><br/>
-        <img src="https://progress-bar.dev/85/?color=3b82f6&width=350&show_percent=true" alt="Backend & API Engineering" />
+        <code>█████████████████░░░</code> (85%)
       </td>
     </tr>
     <tr>
       <td width="50%">
         <b>AI & Automation Systems</b><br/>
-        <img src="https://progress-bar.dev/80/?color=3b82f6&width=350&show_percent=true" alt="AI & Automation Systems" />
+        <code>████████████████░░░░</code> (80%)
       </td>
       <td width="50%">
         <b>IoT & Hardware Prototyping</b><br/>
-        <img src="https://progress-bar.dev/75/?color=3b82f6&width=350&show_percent=true" alt="IoT & Hardware Prototyping" />
+        <code>███████████████░░░░░</code> (75%)
       </td>
     </tr>
   </table>
