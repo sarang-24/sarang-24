@@ -1,5 +1,6 @@
 import os
 import sys
+import argparse
 import re
 import json
 import urllib.request
@@ -168,6 +169,42 @@ obj/
     return True
 
 def main():
+    parser = argparse.ArgumentParser(description="Publish projects from local directory to GitHub.")
+    parser.add_argument("-p", "--project", type=str, help="Specific project folder name or zip file to publish.")
+    parser.add_argument("-l", "--list", action="store_true", help="List all available projects and exit.")
+    args = parser.parse_args()
+
+    if not os.path.exists(PROJECTS_DIR):
+        print(f"Error: Projects directory {PROJECTS_DIR} does not exist.")
+        sys.exit(1)
+        
+    items = os.listdir(PROJECTS_DIR)
+    # Filter out hidden files and non-project files/directories
+    items = [i for i in items if not i.startswith(".") and (os.path.isdir(os.path.join(PROJECTS_DIR, i)) or i.endswith(".zip"))]
+    
+    if args.list:
+        print(f"\nAvailable projects in {PROJECTS_DIR}:")
+        for idx, item in enumerate(sorted(items), 1):
+            print(f"  {idx}. {item}")
+        sys.exit(0)
+        
+    if args.project:
+        # Check if project exists or match by proper name
+        target_path = os.path.join(PROJECTS_DIR, args.project)
+        if not os.path.exists(target_path):
+            normalized_target = make_proper_name(args.project)
+            found = False
+            for item in items:
+                if make_proper_name(item) == normalized_target:
+                    items = [item]
+                    found = True
+                    break
+            if not found:
+                print(f"Error: Project '{args.project}' not found in {PROJECTS_DIR}.")
+                sys.exit(1)
+        else:
+            items = [args.project]
+
     if not TOKEN:
         print("Error: GITHUB_TOKEN environment variable not set.")
         sys.exit(1)
@@ -180,15 +217,7 @@ def main():
     print(f"Authenticated as GitHub User: {username}")
     print(f"Source projects directory: {PROJECTS_DIR}")
     print(f"Create repositories as private: {PRIVATE_REPOS}")
-    
-    if not os.path.exists(PROJECTS_DIR):
-        print(f"Error: Projects directory {PROJECTS_DIR} does not exist.")
-        sys.exit(1)
-        
-    items = os.listdir(PROJECTS_DIR)
-    # Filter out hidden files
-    items = [i for i in items if not i.startswith(".")]
-    
+            
     # Track paths of folders to process
     folders_to_process = []
     
