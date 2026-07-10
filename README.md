@@ -301,25 +301,14 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/AWS_supplychain">📁 AWS_supplychain</a></h4>
-      <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        
-        <img src="https://img.shields.io/github/stars/sarang-24/AWS_supplychain?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/AWS_supplychain?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/logistics">📁 logistics</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
       <p>
-        
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
         <img src="https://img.shields.io/github/stars/sarang-24/logistics?style=flat-square&logo=github&color=F5C211" alt="stars" />
         <img src="https://img.shields.io/github/forks/sarang-24/logistics?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/premium-light-ui-prototype">📁 premium-light-ui-prototype</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
@@ -329,6 +318,8 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <img src="https://img.shields.io/github/forks/sarang-24/premium-light-ui-prototype?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/stocks">📁 stocks</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
@@ -338,8 +329,6 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <img src="https://img.shields.io/github/forks/sarang-24/stocks?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/website-architecture-design">📁 website-architecture-design</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
@@ -349,6 +338,8 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <img src="https://img.shields.io/github/forks/sarang-24/website-architecture-design?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/premium-website-structure">📁 premium-website-structure</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
@@ -356,6 +347,15 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/sarang-24/premium-website-structure?style=flat-square&logo=github&color=F5C211" alt="stars" />
         <img src="https://img.shields.io/github/forks/sarang-24/premium-website-structure?style=flat-square&logo=github&color=58A6FF" alt="forks" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-24/wanderlust-explorer-travel">📁 wanderlust-explorer-travel</a></h4>
+      <p style="font-size: 14px;">No description provided.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/github/stars/sarang-24/wanderlust-explorer-travel?style=flat-square&logo=github&color=F5C211" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sarang-24/wanderlust-explorer-travel?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
     </td>
   </tr>
@@ -375,34 +375,34 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
     </thead>
     <tbody>
       <tr>
-        <td><b><a href="https://github.com/sarang-24/wanderlust-explorer-travel">wanderlust-explorer-travel</a></b></td>
-        <td>-</td>
-        <td align="center">`CSS`</td>
-        <td align="center">⭐ 0</td>
-      </tr>
-      <tr>
         <td><b><a href="https://github.com/sarang-24/ai-office-design-suite">ai-office-design-suite</a></b></td>
         <td>-</td>
         <td align="center">`TypeScript`</td>
-        <td align="center">⭐ 0</td>
+        <td align="center">⭐ 1</td>
       </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/transit-agent">transit-agent</a></b></td>
         <td>-</td>
         <td align="center">`Python`</td>
-        <td align="center">⭐ 0</td>
+        <td align="center">⭐ 1</td>
       </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/codex-blocks-project-overview">codex-blocks-project-overview</a></b></td>
         <td>-</td>
         <td align="center">`TypeScript`</td>
-        <td align="center">⭐ 0</td>
+        <td align="center">⭐ 1</td>
       </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/Devops_150">Devops_150</a></b></td>
         <td>-</td>
         <td align="center">`TypeScript`</td>
-        <td align="center">⭐ 0</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/AWS_supplychain">AWS_supplychain</a></b></td>
+        <td>-</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 1</td>
       </tr>
     </tbody>
   </table>
