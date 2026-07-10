@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Role-CTO%20%26%20COO-blue?style=for-the-badge" alt="CTO & COO" />
   <img src="https://img.shields.io/badge/Expertise-Full%20Stack%20%26%20AI-violet?style=for-the-badge" alt="Full Stack & AI" />
   <img src="https://komarev.com/ghpvc/?username=sarang-24&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/sarang-24"><img src="https://img.shields.io/github/followers/sarang-24?label=Follow%20%40sarang-24&style=for-the-badge&color=10B981&logo=github" alt="Follow @sarang-24" /></a>
 </div>
 
 <div align="center">
@@ -363,7 +364,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 </table>
 <br/>
 <details>
-  <summary><b>🔍 View All Repositories (11)</b></summary>
+  <summary><b>🔍 View All Repositories (12)</b></summary>
   <br/>
   <table width="100%">
     <thead>
@@ -404,6 +405,12 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <td>-</td>
         <td align="center">`-`</td>
         <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/awesome-agentic-ai">awesome-agentic-ai</a></b></td>
+        <td>A curated list of awesome frameworks, libraries, tools, tutorials, and resources for building autonomous, multi-agent, and collaborative Agentic AI systems.</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 0</td>
       </tr>
     </tbody>
   </table>
@@ -491,6 +498,14 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
   <i>"Transforming ideas into scalable code & intelligent solutions."</i><br>
   <b>Let's build something amazing together!</b>
 </div>
+
+<!--
+SEO Keywords:
+Sarang Gole, Sarang Gole GitHub, Sarang Gole CTO, Sarang Gole COO, CodexA Infotech,
+Top GitHub Users in Mumbai, Top GitHub Users in India, Top Developer Mumbai,
+Full Stack Developer Mumbai, AI Automation Engineer, IoT Developer,
+sarang-24, sarang-24 GitHub, Software Architect, India Developers.
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=100&section=footer" width="100%" />
