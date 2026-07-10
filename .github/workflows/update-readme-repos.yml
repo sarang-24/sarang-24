@@ -1,0 +1,43 @@
+name: Update Featured Repositories
+
+on:
+  schedule:
+    # Run once every 24 hours
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-cache: false
+
+      - name: Update Repository List in README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_repos.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Check if there are changes before committing
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes in README.md, skipping commit."
+          else
+            git commit -m "docs: auto-update repository list [skip ci]"
+            git push
+          fi
