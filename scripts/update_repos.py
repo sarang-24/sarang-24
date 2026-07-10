@@ -5,6 +5,7 @@ import json
 # Configurations
 USERNAME = os.environ.get("GITHUB_REPOSITORY_OWNER", "sarang-24")
 EXCLUDED_REPOS = {USERNAME.lower(), "gitu", "sarang-24"}
+PINNED_REPOS = {"awesome-agentic-ai"}
 README_PATH = os.environ.get("README_PATH", "README.md")
 
 # Language Badge Styling Config
@@ -62,11 +63,16 @@ def main():
     # Sort repos: stars (desc), pushed_at (desc)
     filtered_repos.sort(key=lambda r: (r.get('stargazers_count', 0), r.get('pushed_at', '') or r.get('updated_at', '')), reverse=True)
     
-    print(f"Found {len(filtered_repos)} public non-fork repositories.")
+    # Prioritize pinned repos to the front
+    pinned = [r for r in filtered_repos if r.get('name', '').lower() in PINNED_REPOS]
+    unpinned = [r for r in filtered_repos if r.get('name', '').lower() not in PINNED_REPOS]
+    final_repos = pinned + unpinned
+    
+    print(f"Found {len(final_repos)} public non-fork repositories.")
     
     # We will showcase top 6 in a grid
-    featured = filtered_repos[:6]
-    remaining = filtered_repos[6:]
+    featured = final_repos[:6]
+    remaining = final_repos[6:]
     
     # Build featured repos HTML grid
     grid_html = '<table width="100%" border="0">\n'
