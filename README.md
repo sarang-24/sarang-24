@@ -23,6 +23,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Chief+Technology+Officer+%26+COO;Full-Stack+Developer;AI+Automation+Engineer;B.Tech+Computer+Science+Student" alt="Typing SVG" />
 </div>
 
+<br/>
+
+<div align="center">
+  <h3>🎯 Follower Milestone Target</h3>
+  <table>
+    <tr>
+      <th>Goal</th>
+      <th>Progress</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td><b>100 Followers</b></td>
+      <td><code>░░░░░░░░░░░░░░░░░░░░</code> 0%</td>
+      <td>🔄 In Progress (Help me reach it!)</td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ### 🖥️ Executive CTO Dashboard
