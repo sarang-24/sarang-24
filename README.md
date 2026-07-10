@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-CTO%20%26%20COO-blue?style=for-the-badge" alt="CTO & COO" />
+  <img src="https://img.shields.io/badge/Role-CTO-blue?style=for-the-badge" alt="CTO" />
   <img src="https://img.shields.io/badge/Expertise-Full%20Stack%20%26%20AI-violet?style=for-the-badge" alt="Full Stack & AI" />
   <img src="https://komarev.com/ghpvc/?username=sarang-24&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/sarang-24"><img src="https://img.shields.io/github/followers/sarang-24?label=Follow%20%40sarang-24&style=for-the-badge&color=10B981&logo=github" alt="Follow @sarang-24" /></a>
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Chief+Technology+Officer+%26+COO;Full-Stack+Developer;AI+Automation+Engineer;B.Tech+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Chief+Technology+Officer;Full-Stack+Developer;AI+Automation+Engineer;B.Tech+Computer+Science+Student" alt="Typing SVG" />
 </div>---
 
 ### 🖥️ Executive CTO Dashboard
@@ -31,7 +31,7 @@
       <td width="50%" valign="top">
         <b>👤 Profile</b><br/>
         Sarang Gole<br/>
-        CTO & COO @ CodexA Infotech LLP
+        CTO @ CodexA Infotech LLP
       </td>
       <td width="50%" valign="top">
         <b>🎓 Academic</b><br/>
@@ -71,7 +71,7 @@
       <td><code>██████████████████░░</code> [90/100]</td>
     </tr>
     <tr>
-      <td><b>CHA (Leadership & COO)</b></td>
+      <td><b>CHA (Leadership)</b></td>
       <td><code>███████████████████░</code> [95/100]</td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@
 ### 🚀 About Me
 
 <p align="justify">
-  As a tech-driven entrepreneur and software engineer, I bridge the gap between business growth and cutting-edge scalable technology. In my dual role as <b>Chief Technology Officer & COO at CodexA Infotech LLP</b>, I direct product strategy, orchestrate software architectures, and lead cross-functional teams to build next-generation applications. Simultaneously, I am expanding my theoretical and technical foundations through a <b>B.Tech in Computer Science Engineering</b> at ITM Skills University.
+  As a tech-driven entrepreneur and software engineer, I bridge the gap between business growth and cutting-edge scalable technology. In my role as <b>Chief Technology Officer at CodexA Infotech LLP</b>, I direct product strategy, orchestrate software architectures, and lead cross-functional teams to build next-generation applications. Simultaneously, I am expanding my theoretical and technical foundations through a <b>B.Tech in Computer Science Engineering</b> at ITM Skills University.
 </p>
 
 <table width="100%" border="0">
@@ -127,8 +127,8 @@
   👥 2025  ───  Felicity '25 Hackathon Builder
                 └── Engineered rapid-prototype multi-agent workflow automations & advanced AI/ML systems.
 
-  🚀 2026  ───  CTO & COO @ CodexA Infotech LLP
-                └── Appointed Chief Technology Officer & COO. Directing technical strategy & AI roadmaps.
+  🚀 2026  ───  CTO @ CodexA Infotech LLP
+                └── Appointed Chief Technology Officer. Directing technical strategy & AI roadmaps.
 ```
 
 ---
@@ -242,7 +242,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 ### 💼 Professional Experience
 
 #### **CodexA Infotech LLP**
-**Chief Technology Officer (CTO) & COO** | *February 2026 - Present*
+**Chief Technology Officer (CTO)** | *February 2026 - Present*
 - Formulate and execute technology strategies, directing the end-to-end development of custom enterprise websites and mobile applications.
 - Architect and integrate custom AI-powered automation agents and intelligent operations software.
 - Lead a talented engineering team, defining sprint schedules, dev standards, and deployment pipelines.
@@ -655,7 +655,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 
 <!--
 SEO Keywords:
-Sarang Gole, Sarang Gole GitHub, Sarang Gole CTO, Sarang Gole COO, CodexA Infotech,
+Sarang Gole, Sarang Gole GitHub, Sarang Gole CTO, CodexA Infotech,
 Top GitHub Users in Mumbai, Top GitHub Users in India, Top Developer Mumbai,
 Full Stack Developer Mumbai, AI Automation Engineer, IoT Developer,
 sarang-24, sarang-24 GitHub, Software Architect, India Developers.
