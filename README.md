@@ -310,59 +310,59 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/terrasentinel-ui-design">📁 terrasentinel-ui-design</a></h4>
-      <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/github/stars/sarang-24/terrasentinel-ui-design?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/terrasentinel-ui-design?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/entrepnership-project">📁 entrepnership-project</a></h4>
-      <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        
-        <img src="https://img.shields.io/github/stars/sarang-24/entrepnership-project?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/entrepnership-project?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/transittwin-ui-design">📁 transittwin-ui-design</a></h4>
-      <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/github/stars/sarang-24/transittwin-ui-design?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/transittwin-ui-design?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/business-group-project-segmentation-analysis">📁 business-group-project-segmentation-analysis</a></h4>
-      <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-        <img src="https://img.shields.io/github/stars/sarang-24/business-group-project-segmentation-analysis?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/business-group-project-segmentation-analysis?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/graph-case-study">📁 graph-case-study</a></h4>
+      <h4><a href="https://github.com/sarang-24/esim-11">📁 esim-11</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/github/stars/sarang-24/graph-case-study?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/graph-case-study?style=flat-square&logo=github&color=58A6FF" alt="forks" />
+        <img src="https://img.shields.io/github/stars/sarang-24/esim-11?style=flat-square&logo=github&color=F5C211" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sarang-24/esim-11?style=flat-square&logo=github&color=58A6FF" alt="forks" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-24/buisnes-prject">📁 buisnes-prject</a></h4>
+      <p style="font-size: 14px;">No description provided.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+        <img src="https://img.shields.io/github/stars/sarang-24/buisnes-prject?style=flat-square&logo=github&color=F5C211" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sarang-24/buisnes-prject?style=flat-square&logo=github&color=58A6FF" alt="forks" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-24/system-design">📁 system-design</a></h4>
+      <p style="font-size: 14px;">No description provided.</p>
+      <p>
+        
+        <img src="https://img.shields.io/github/stars/sarang-24/system-design?style=flat-square&logo=github&color=F5C211" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sarang-24/system-design?style=flat-square&logo=github&color=58A6FF" alt="forks" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-24/graph-and-db">📁 graph-and-db</a></h4>
+      <p style="font-size: 14px;">No description provided.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/github/stars/sarang-24/graph-and-db?style=flat-square&logo=github&color=F5C211" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sarang-24/graph-and-db?style=flat-square&logo=github&color=58A6FF" alt="forks" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-24/graph">📁 graph</a></h4>
+      <p style="font-size: 14px;">No description provided.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/github/stars/sarang-24/graph?style=flat-square&logo=github&color=F5C211" alt="stars" />
+        <img src="https://img.shields.io/github/forks/sarang-24/graph?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
     </td>
   </tr>
 </table>
 <br/>
 <details>
-  <summary><b>🔍 View All Repositories (25)</b></summary>
+  <summary><b>🔍 View All Repositories (38)</b></summary>
   <br/>
   <table width="100%">
     <thead>
@@ -374,6 +374,108 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/crm-landing-page-2">crm-landing-page-2</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/spa-dashboard-2">spa-dashboard-2</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/info-tech">info-tech</a></b></td>
+        <td>-</td>
+        <td align="center">`JavaScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/casestudy">casestudy</a></b></td>
+        <td>-</td>
+        <td align="center">`JavaScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/spa-dashboard">spa-dashboard</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/sp">sp</a></b></td>
+        <td>-</td>
+        <td align="center">`JavaScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/comoany">comoany</a></b></td>
+        <td>-</td>
+        <td align="center">`CSS`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/blocks">blocks</a></b></td>
+        <td>-</td>
+        <td align="center">`JavaScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/create-amazing-ui-with-features">create-amazing-ui-with-features</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/livelong-al">livelong-al</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/ai-office-design-suite">ai-office-design-suite</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/terrasentinel-ui-design">terrasentinel-ui-design</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/entrepnership-project">entrepnership-project</a></b></td>
+        <td>-</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/transittwin-ui-design">transittwin-ui-design</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/business-group-project-segmentation-analysis">business-group-project-segmentation-analysis</a></b></td>
+        <td>-</td>
+        <td align="center">`Jupyter Notebook`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/graph-case-study">graph-case-study</a></b></td>
+        <td>-</td>
+        <td align="center">`Python`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/swarajya">swarajya</a></b></td>
+        <td>-</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/suadhi">suadhi</a></b></td>
         <td>-</td>
@@ -400,18 +502,6 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
       </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/virtual-chemistry">virtual-chemistry</a></b></td>
-        <td>-</td>
-        <td align="center">`TypeScript`</td>
-        <td align="center">⭐ 1</td>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/sarang-24/create-amazing-ui-with-features">create-amazing-ui-with-features</a></b></td>
-        <td>-</td>
-        <td align="center">`-`</td>
-        <td align="center">⭐ 1</td>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/sarang-24/livelong-al">livelong-al</a></b></td>
         <td>-</td>
         <td align="center">`TypeScript`</td>
         <td align="center">⭐ 1</td>
@@ -453,12 +543,6 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <td align="center">⭐ 1</td>
       </tr>
       <tr>
-        <td><b><a href="https://github.com/sarang-24/ai-office-design-suite">ai-office-design-suite</a></b></td>
-        <td>-</td>
-        <td align="center">`TypeScript`</td>
-        <td align="center">⭐ 1</td>
-      </tr>
-      <tr>
         <td><b><a href="https://github.com/sarang-24/transit-agent">transit-agent</a></b></td>
         <td>-</td>
         <td align="center">`Python`</td>
@@ -481,12 +565,6 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <td>-</td>
         <td align="center">`-`</td>
         <td align="center">⭐ 1</td>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/sarang-24/swarajya">swarajya</a></b></td>
-        <td>-</td>
-        <td align="center">`-`</td>
-        <td align="center">⭐ 0</td>
       </tr>
     </tbody>
   </table>
