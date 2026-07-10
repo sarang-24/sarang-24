@@ -436,7 +436,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarang-24&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="Sarang's GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=sarang-24&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="Sarang's GitHub Trophies" />
   </a>
 </div>
 
@@ -470,14 +470,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarang-24&theme=radical&hide_border=true" width="760" alt="Sarang Gole's GitHub Streak" />
 </div>
 
-<br/>
 
-<div align="center">
-  <h3>📊 Weekly Coding Activity (WakaTime)</h3>
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=sarang-24&theme=radical&layout=compact" width="400" alt="WakaTime Stats" />
-</div>
-
----
 
 <div align="center">
   <h3>🎵 Connect on Spotify</h3>
