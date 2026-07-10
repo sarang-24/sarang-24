@@ -22,4 +22,4 @@ jobs:
       - name: Fetch Latest Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@saranggole9106" # Replace with your RSS feed URL
+          feed_list: "https://medium.com/feed/@saranggole9106, https://hashnode.com/@sarang-24/rss"
