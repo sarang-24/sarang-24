@@ -303,60 +303,36 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/awesome-agentic-ai">📁 awesome-agentic-ai</a></h4>
       <p style="font-size: 14px;">A curated list of awesome frameworks, libraries, tools, tutorials, and resources for building aut...</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/github/stars/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/esim-11">📁 esim-11</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/github/stars/sarang-24/esim-11?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/esim-11?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/github/stars/sarang-24/esim-11?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/esim-11?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/buisnes-prject">📁 buisnes-prject</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-        <img src="https://img.shields.io/github/stars/sarang-24/buisnes-prject?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/buisnes-prject?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/github/stars/sarang-24/buisnes-prject?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/buisnes-prject?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/system-design">📁 system-design</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        
-        <img src="https://img.shields.io/github/stars/sarang-24/system-design?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/system-design?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p> <img src="https://img.shields.io/github/stars/sarang-24/system-design?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/system-design?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/graph-and-db">📁 graph-and-db</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/github/stars/sarang-24/graph-and-db?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/graph-and-db?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/github/stars/sarang-24/graph-and-db?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/graph-and-db?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/graph">📁 graph</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/github/stars/sarang-24/graph?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/sarang-24/graph?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/github/stars/sarang-24/graph?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/graph?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
   </tr>
 </table>

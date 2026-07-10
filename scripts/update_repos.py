@@ -94,11 +94,7 @@ def main():
                 grid_html += f'''    <td width="50%" valign="top">
       <h4><a href="{html_url}">📁 {name}</a></h4>
       <p style="font-size: 14px;">{desc}</p>
-      <p>
-        {lang_badge}
-        <img src="https://img.shields.io/github/stars/{owner}/{name}?style=flat-square&logo=github&color=F5C211" alt="stars" />
-        <img src="https://img.shields.io/github/forks/{owner}/{name}?style=flat-square&logo=github&color=58A6FF" alt="forks" />
-      </p>
+      <p>{lang_badge} <img src="https://img.shields.io/github/stars/{owner}/{name}?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/{owner}/{name}?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>\n'''
             else:
                 grid_html += '    <td width="50%" valign="top"></td>\n'
