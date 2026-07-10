@@ -304,7 +304,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
       <h4><a href="https://github.com/sarang-24/awesome-agentic-ai">📁 awesome-agentic-ai</a></h4>
       <p style="font-size: 14px;">A curated list of awesome frameworks, libraries, tools, tutorials, and resources for building aut...</p>
       <p>
-        
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=F5C211" alt="stars" />
         <img src="https://img.shields.io/github/forks/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=58A6FF" alt="forks" />
       </p>
