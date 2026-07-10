@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=120&section=header" width="100%" />
-  <img src="profile-banner.png" alt="Sarang Gole Banner" width="100%" />
+  <img src="domains-banner.png" alt="Sarang Gole Banner" width="100%" />
 </div>
 
 <br/>
