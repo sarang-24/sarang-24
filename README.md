@@ -364,7 +364,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 </table>
 <br/>
 <details>
-  <summary><b>🔍 View All Repositories (12)</b></summary>
+  <summary><b>🔍 View All Repositories (25)</b></summary>
   <br/>
   <table width="100%">
     <thead>
@@ -405,6 +405,84 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <td>-</td>
         <td align="center">`-`</td>
         <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/terrasentinel-ui-design">terrasentinel-ui-design</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/entrepnership-project">entrepnership-project</a></b></td>
+        <td>-</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/transittwin-ui-design">transittwin-ui-design</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/business-group-project-segmentation-analysis">business-group-project-segmentation-analysis</a></b></td>
+        <td>-</td>
+        <td align="center">`Jupyter Notebook`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/graph-case-study">graph-case-study</a></b></td>
+        <td>-</td>
+        <td align="center">`Python`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/swarajya">swarajya</a></b></td>
+        <td>-</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/suadhi">suadhi</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/company-website-overview">company-website-overview</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/ideathon-ps-5">ideathon-ps-5</a></b></td>
+        <td>-</td>
+        <td align="center">`JavaScript`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/pet-feeder1">pet-feeder1</a></b></td>
+        <td>-</td>
+        <td align="center">`C++`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/virtual-chemistry">virtual-chemistry</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/create-amazing-ui-with-features">create-amazing-ui-with-features</a></b></td>
+        <td>-</td>
+        <td align="center">`-`</td>
+        <td align="center">⭐ 0</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/livelong-al">livelong-al</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
       </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/awesome-agentic-ai">awesome-agentic-ai</a></b></td>
