@@ -338,7 +338,7 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
 </table>
 <br/>
 <details>
-  <summary><b>🔍 View All Repositories (38)</b></summary>
+  <summary><b>🔍 View All Repositories (39)</b></summary>
   <br/>
   <table width="100%">
     <thead>
@@ -541,6 +541,12 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
         <td>-</td>
         <td align="center">`-`</td>
         <td align="center">⭐ 1</td>
+      </tr>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/portfolio">portfolio</a></b></td>
+        <td>-</td>
+        <td align="center">`TypeScript`</td>
+        <td align="center">⭐ 0</td>
       </tr>
     </tbody>
   </table>
