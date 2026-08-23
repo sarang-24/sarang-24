@@ -306,39 +306,39 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
       <p><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/awesome-agentic-ai?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/sarang-24/Auracad">📁 Auracad</a></h4>
+      <p style="font-size: 14px;">No description provided.</p>
+      <p><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/sarang-24/Auracad?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/Auracad?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/esim-11">📁 esim-11</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/github/stars/sarang-24/esim-11?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/esim-11?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/buisnes-prject">📁 buisnes-prject</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
       <p><img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> <img src="https://img.shields.io/github/stars/sarang-24/buisnes-prject?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/buisnes-prject?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/system-design">📁 system-design</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
       <p> <img src="https://img.shields.io/github/stars/sarang-24/system-design?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/system-design?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/sarang-24/graph-and-db">📁 graph-and-db</a></h4>
       <p style="font-size: 14px;">No description provided.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/github/stars/sarang-24/graph-and-db?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/graph-and-db?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/sarang-24/graph">📁 graph</a></h4>
-      <p style="font-size: 14px;">No description provided.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/github/stars/sarang-24/graph?style=flat-square&logo=github&color=F5C211" alt="stars" /> <img src="https://img.shields.io/github/forks/sarang-24/graph?style=flat-square&logo=github&color=58A6FF" alt="forks" /></p>
-    </td>
   </tr>
 </table>
 <br/>
 <details>
-  <summary><b>🔍 View All Repositories (39)</b></summary>
+  <summary><b>🔍 View All Repositories (40)</b></summary>
   <br/>
   <table width="100%">
     <thead>
@@ -350,6 +350,12 @@ sarang@codexa:~$ ./iot_deploy.sh --device ESP32 --target Edge
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><b><a href="https://github.com/sarang-24/graph">graph</a></b></td>
+        <td>-</td>
+        <td align="center">`Python`</td>
+        <td align="center">⭐ 1</td>
+      </tr>
       <tr>
         <td><b><a href="https://github.com/sarang-24/crm-landing-page-2">crm-landing-page-2</a></b></td>
         <td>-</td>
